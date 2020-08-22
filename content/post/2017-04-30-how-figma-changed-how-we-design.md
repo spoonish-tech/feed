@@ -5,7 +5,8 @@ hero: "/images/krzysztof-niewolny-rvcrcs_lipe-unsplash.jpg"
 excerpt: Do you still want your company to be around 5 years from now? Time to embrace
   DevOps
 timeToRead: 8
-authors: []
+authors:
+- Robin Morero
 
 ---
 
