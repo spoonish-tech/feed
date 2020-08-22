@@ -40,7 +40,7 @@ Some other examples are:
 * Starbucks
 * Verizon
 
-And this is just a tip of the iceberg.
+And this is just the tip of the iceberg.
 
 ## Which effects can you expect to see?
 
@@ -92,7 +92,7 @@ High deployment frequency usually indicates high velocity, short time to market,
 
 How long does it take for committed code to be deployed to production?
 
-A short mean lead time indicates a lack of bottlenecks, strong autonomy, a high level of trust, and efficient code deployment strategies.
+Short mean lead time indicates a lack of bottlenecks, strong autonomy, a high level of trust, and efficient code deployment strategies.
 
 #### Change failure rate
 
