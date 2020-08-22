@@ -8,7 +8,8 @@ timeToRead: 8
 authors: []
 
 ---
-Do you want your company to still be around 5 years from now?
+
+#### Do you want your company to still be around 5 years from now?
 
 If you haven't already embraced DevOps practices - or if you're doing it wrong (LINK) - it's high time to remedy this.
 
@@ -59,15 +60,15 @@ Some common effects of properly adopted DevOps practices include:
 * Efficient and repeatable deployment practices
 * Stronger team motivation
 * Increased psychological safety
-* More efficient support/feedback processes (including on-call)  
-    
+* More efficient support/feedback processes (including on-call)
+
   Can't quite believe it?
 
 ## Trust the statistics
 
-Several independent resources have collected extensive metrics on the effectiveness of DevOps practices. Companies like Puppet, Google, Gitlab, and Splunk all contribute to collect even more statistics. 
+Several independent resources have collected extensive metrics on the effectiveness of DevOps practices. Companies like Puppet, Google, Gitlab, and Splunk all contribute to collect even more statistics.
 
-For an in-depth analysis of both the findings, the surveys used, and the scientific approach - I strongly recommend picking up the book Accelerate - the science of DevOps, from your favorite book store. 
+For an in-depth analysis of both the findings, the surveys used, and the scientific approach - I strongly recommend picking up the book Accelerate - the science of DevOps, from your favorite book store.
 
 ## And you can measure your progress!
 
@@ -127,6 +128,6 @@ We continually coach your teams - onsite or offsite -  to get better adoption of
 
 #### Free - DevOps Quickstart
 
-The free option. We can now offer a 1-hour free remote consultancy where we provide resources and good advice on how to get started. 
+The free option. We can now offer a 1-hour free remote consultancy where we provide resources and good advice on how to get started.
 
 #### Contact us at [soup@spoonish.tech](mailto:soup@spoonish.tech "soup@spoonish.tech")
