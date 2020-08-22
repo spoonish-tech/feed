@@ -1,7 +1,7 @@
 ---
 title: DevOps - time to catch up
 date: 2020-08-21T22:00:00+00:00
-hero: "/images/sven-brandsma-an_aoeet7aq-unsplash.jpg"
+hero: "/images/krzysztof-niewolny-rvcrcs_lipe-unsplash.jpg"
 excerpt: Do you still want your company to be around 5 years from now? Time to embrace
   DevOps
 timeToRead: 8
